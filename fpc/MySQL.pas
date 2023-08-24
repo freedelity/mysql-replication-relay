@@ -9,7 +9,7 @@
 //                    C header files, mysql.h, mysql_com.h, and mysql_version.h
 //
 //                            Copyright (c) 1999-2002 Matthias Fichtner
-//                           (see license.txt for licensing information)
+// (Licensed under Mozilla Public License Version 1.1. See LICENSE-MPL1.1 file for license information)
 //
 // -----------------------------------------------------------------------------------------------
 //                       See mysql.h for MySQL AB's copyright and GPL notice
@@ -54,9 +54,6 @@
 //
 //                  Please send questions, bug reports, and suggestions regarding
 //                  mysql.pas to Matthias Fichtner <mfichtner@fichtner-meyer.com>
-//
-//                      See readme.txt for an introduction and documentation.
-//                    See license.txt for licensing information and disclaimer.
 //
 // -----------------------------------------------------------------------------------------------
 //                     This unit is provided "as is". Use it at your own risk.

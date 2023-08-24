@@ -252,4 +252,6 @@ Result :
 
 # License
 
-Distributed under the GPLv3 License. See [LICENSE](LICENSE) file for more information.
+Most of the code in this repository is licensed under `GPL-3.0-or-later`. You can find the full license text in [LICENSE-GPL3](./LICENSE-GPL3).
+
+The only exception is the file [MySQL.pas](fpc/MySQL.pas) which is licensed under `MPL-1.1`. You can find the full license text for this file in [LICENSE-MPL1.1](./LICENSE-MPL1.1).
